@@ -4,4 +4,5 @@
 ---
 ### We can use these commands to help resolving:
 - `git log --merge`: view the merge logs.
+    - you can use `git log --pretty=oneline` flag to have a pretty log.
 - `git diff`: to view the differences between local and remote.
