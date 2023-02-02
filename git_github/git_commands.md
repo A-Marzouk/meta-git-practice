@@ -10,5 +10,7 @@
 - `git branch branch_name`: used to create a branch.
 - `git branch`: list all branches in current repo.
 - `git branch -d branch_name`: delete a branch locally.
+- `git push -u origin branch_name`: it is used to push date to the branch.
+    - `-u` flag is used to set the up-stream so you can push directly later to this branch.
     
 
